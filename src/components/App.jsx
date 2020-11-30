@@ -25,6 +25,7 @@ function App() {
     });
   }
 
+  //return for main app function
   return (
     <div>
       <Header />
