@@ -4,6 +4,7 @@ import Footer from "./Footer";
 import Note from "./Note";
 import CreateArea from "./CreateArea";
 
+//Main app function
 function App() {
   //use an array variable to save the notes
   const [notes, setNotes] = useState([]);
